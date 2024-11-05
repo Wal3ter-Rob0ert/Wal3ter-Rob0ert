@@ -5,7 +5,7 @@
 - 📫 How to reach me aidynabenov20@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I know French, I can play on violin, and I m building computers for people since I'm a schoolboy. That's all I'm making money on so far. I m from KZ
-- 🧠 I know Java, C++ a little
+- 🧠 I know Java, C++, deeply chemistry
 <!---
 Wal3ter-Rob0ert/Wal3ter-Rob0ert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
