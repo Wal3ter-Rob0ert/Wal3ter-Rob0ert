@@ -1,6 +1,15 @@
 # 💫 About Me:
-name: Aidyn Abenov<br>located_in: Astana, Kazkhstan<br>current_job:  Electrical Engineering & Entrepreneurship Enthusiast<br>age: 17<br>education:<br>  [<br>    "Self-Taught Developer and Designer"<br>  ]<br>company: Spigago, CEO<br><br>fields_of_interests:<br>  [<br>    "Software engineer",<br>    "Data Science",<br>    "Machine Learning",<br>    "Cybersecurity",<br>    "Computer hardware engineer",<br>    "PCB design",<br>  ]<br>technical_background:<br>  [<br>    "Product Engineering",<br>    "Intern - PCB design",<br>    "Intern - Internet Of Things",<br>    "Intern - 3D modeling",<br>  ]<br>  <br>currently_learning: ["React", "TypeScript", "Node.js", "DevOps Practices"]<br>2024 Goals: ["End an MVP"]<br>hobbies: ["reading", "Cinema", "Triathlon", "Violin", "skiing"]
-
+name: Aidyn Abenov<br>
+located_in: Astana, Kazakhstan<br>
+current_job: Electrical Engineering & Entrepreneurship Enthusiast<br>
+age: 17<br>
+education: ["Self-Taught Developer and Designer"]<br>
+company: Spigago (CEO)<br>
+fields_of_interests: ["Software Engineering", "Data Science", "Machine Learning", "Cybersecurity", "Computer Hardware", "PCB Design"]<br>
+technical_background: ["Product Engineering", "Intern - PCB Design", "Intern - IoT", "Intern - 3D Modeling"]<br>
+currently_learning: ["React", "TypeScript", "Node.js", "DevOps Practices"]<br>
+2024_goals: ["End an MVP"]<br>
+hobbies: ["Reading", "Cinema", "Triathlon", "Violin", "Skiing"]
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abenov. a.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aidyn Abenov) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Western-Dimension594) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Tore Zhan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@businessmen200) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aidynabenov20@gmail.com) 
