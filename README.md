@@ -4,7 +4,7 @@ located_in: Astana, Kazakhstan<br>
 current_job: Electrical Engineering & Entrepreneurship Enthusiast<br>
 age: 17<br>
 education: ["Self-Taught Developer and Designer"]<br>
-company: Spigago (CEO)<br>
+
 fields_of_interests: ["Software Engineering", "Data Science", "Machine Learning", "Cybersecurity", "Computer Hardware", "PCB Design"]<br>
 technical_background: ["Product Engineering", "Intern - PCB Design", "Intern - IoT", "Intern - 3D Modeling"]<br>
 currently_learning: ["React", "TypeScript", "Node.js", "DevOps Practices"]<br>
